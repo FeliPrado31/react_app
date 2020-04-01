@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from "./components/header";
-import Dish from "./components/dish";
+import Header from "./components/pages/header";
+import Dish from "./components/pages/dish";
 import './styles/App.css';
 
 function App() {

@@ -1,3 +1,6 @@
 vscode:
   extensions:
     - jawandarajbir.react-vscode-extension-pack@0.4.0:Q9yUw5rorelmURZ8xJOeUw==
+    - dbaeumer.vscode-eslint@2.1.2:SXv8jWBXOP4PJ/PAw0CBzg==
+    - formulahendry.auto-close-tag@0.5.6:oZ/8R2VhZEhkHsoeO57hSw==
+    - esbenp.prettier-vscode@3.20.0:37/f4uBlE287wUjENFq1aA==
